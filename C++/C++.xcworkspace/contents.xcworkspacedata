@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:NetSpider2.0/NetSpider2.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NetSpider/NetSpider.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Thread_Pool/Thread_Pool.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:inline/inline.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BASE_1/BASE_1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TheBigTen/TheBigTen.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TEST_FindMin/TEST_FindMin.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TEST_String2Integer/TEST_String2Integer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TEST_StringFind/TEST_StringFind.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TEST_StringMath/TEST_StringMath.xcodeproj">
+   </FileRef>
+</Workspace>
